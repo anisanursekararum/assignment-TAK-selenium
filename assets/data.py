@@ -27,6 +27,9 @@ class dataTest():
     error_not_found = "No customer account found"
     error_invalid_cred = "The credentials provided are incorrect"
     error_invalid_email = "Please enter a valid email address."
-    laptop = "14.1-inch Laptop"
-    shopping = "Shopping cart"
-    shipping = "Estimate shipping"
+    gift = "$25 Virtual Gift Card"
+    recipient_name = "byulyi moon"
+    success_add_cart = "The product has been added to your "
+    qty = 2
+    price = 25.00
+    cart_qty = "2"
